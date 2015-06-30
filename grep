@@ -1,0 +1,6 @@
+The grep command is useful for looking inside files. It takes two parameters: the first is what we are looking for (for
+instance a string) and the second one is the file(s) inside which we want to search.
+
+Example of usage. Look for the word 'instance' in the file example.txt:
+
+grep instance example.txt
