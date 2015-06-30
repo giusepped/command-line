@@ -1,0 +1,7 @@
+The mv command can move a file from a directory to another one. It can also be used to rename a file. 
+It takes two arguments: the first argument is the file that you need to move/rename and the second argument 
+is the new location with the new name of the file(optional).
+
+Example of usage. To move the file 'example' to the parent directory and call it 'example1':
+
+mv example ../example1
